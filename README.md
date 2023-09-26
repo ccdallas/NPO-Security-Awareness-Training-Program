@@ -1,4 +1,4 @@
-# HeartLove Place Security Awareness Training Program
+# Non Profit Organization Security Awareness Training Program
 
 ![Security Training](https://blog.usecure.io/hs-fs/hubfs/7%20Key%20Steps%20to%20implement%20security%20awareness%20training_3.png?width=2280&name=7%20Key%20Steps%20to%20implement%20security%20awareness%20training_3.png)
 
